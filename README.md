@@ -45,7 +45,7 @@ Things you may want to cover:
 
 ## comments テーブル
 
-| colum     | type       |        option                  |g
+| colum     | type       |        option                  |
 |---------------------------------------------------------|
 | content   | text       | null: false                    |
 | prototype | references | null: false, foreign_key: true | 
